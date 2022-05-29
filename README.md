@@ -1,0 +1,1 @@
+此项目是springcloud-gateway上基础上，利用spring-security,spring-session等。与cas或者与ldap服务集成。可实现微服务网关的权限控制。项目启动需求与eureka注册中心,ldap服务器或者cas服务器。spring-session依赖redis服务器。
